@@ -1,0 +1,17 @@
+main.c:107:6:read_encoder	4	static
+main.c:115:6:GetPPR	16	static
+main.c:128:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:140:6:PID_controller	40	static
+main.c:150:6:xuat_PWM	24	static
+main.c:171:6:process_RXData	64	static
+main.c:225:6:HAL_UART_RxCpltCallback	16	static
+main.c:248:5:main	32	static
+main.c:333:6:SystemClock_Config	72	static
+main.c:372:13:MX_TIM1_Init	56	static
+main.c:422:13:MX_TIM2_Init	32	static
+main.c:467:13:MX_TIM3_Init	48	static
+main.c:520:13:MX_USART2_UART_Init	8	static
+main.c:553:13:MX_GPIO_Init	32	static
+main.c:575:6:init_Encx1	56	static
+main.c:617:6:init_Encx4	56	static
+main.c:663:6:Error_Handler	4	static,ignoring_inline_asm
